@@ -25,5 +25,11 @@ An HTML-based resume template that presents work experience, education, and skil
 ### tables.html
 A page that demonstrates how to create and style tables in HTML, showcasing various data representations.
 
+### svg.html
+An interactive page showcasing Scalable Vector Graphics (SVG) elements, demonstrating how to create and embed SVG graphics directly in HTML.
+
+### advanced_tables.html
+An advanced table page featuring complex table structures, including nested tables, merged cells, and sophisticated styling options for professional data presentation.
+
 ## Contact
 If you have any questions or suggestions regarding this repository, feel free to reach out to me via my GitHub profile: [a-man77](https://github.com/a-man77)

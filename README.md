@@ -11,31 +11,12 @@ A comprehensive collection of pure HTML projects organized by difficulty level, 
 ### 1️⃣ homepage.html
 **Concepts:** Basic HTML structure, headings, paragraphs, lists, footer
 
-**Output Preview:**
-```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║                  WELCOME TO MY HOMEPAGE                   ║
-║                                                            ║
-║    Hi, I'm Aman. I'm an aspiring web developer            ║
-║                                                            ║
-║                     ABOUT ME                               ║
-║    I'm a student learning front-end development          ║
-║                                                            ║
-║                   FAVORITE QUOTE                           ║
-║  "The only way to do great work is to love what you do"   ║
-║                                                            ║
-║                    MY HOBBIES                              ║
-║    • Video games    • TV    • Movies                      ║
-║    • Cartoon        • Apple                               ║
-║                                                            ║
-║  Contact me at: profjpbaugh@gmail.com                     ║
-║                                                            ║
-║  ────────────────────────────────────────────────         ║
-║          © 2026 Aman Singh                                 ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
+**What it displays:**
+- A personal homepage with introduction
+- "About Me" section
+- A favorite quote
+- List of hobbies
+- Contact email and footer
 
 **Skills Learned:** `<h1>`, `<p>`, `<ul>`, `<li>`, `<footer>`, `<body>` structure
 
@@ -44,24 +25,11 @@ A comprehensive collection of pure HTML projects organized by difficulty level, 
 ### 2️⃣ links.html
 **Concepts:** Hyperlinks, target attributes, external resources, link organization
 
-**Output Preview:**
-```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║            EXPLORING NASA'S WEBSITE                        ║
-║     Click the links below to get out of boredom            ║
-║                                                            ║
-║  CLICKY STUFFS                                             ║
-║    • Try Out You Name                                     ║
-║    • Birthday Bash                                        ║
-║    • Skymap                                               ║
-║                                                            ║
-║  SOMETHING FOR NERDS                                       ║
-║    • Project Artemis                                      ║
-║    • Project Hail Mary                                    ║
-║                                                            ║
-╚════════════════���═══════════════════════════════════════════╝
-```
+**What it displays:**
+- NASA-themed links page
+- Multiple categories of clickable links
+- External resources to NASA website
+- Interactive link collection
 
 **Skills Learned:** `<a>` tags, `href` attribute, `target="_blank"`, external links
 
@@ -70,27 +38,11 @@ A comprehensive collection of pure HTML projects organized by difficulty level, 
 ### 3️⃣ recipes.html
 **Concepts:** Images, headers, sections, content organization
 
-**Output Preview:**
-```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║                  MY FAVORITE RECIPES                       ║
-║  Welcome stranger, here you'll find the best recipes      ║
-║  from around the world!!                                  ║
-║                                                            ║
-║               KOREAN-STYLE MAPO TOFU                       ║
-║                    (Mapadubu 마파두부)                      ║
-║                                                            ║
-║  [🖼️ Recipe Image]                                        ║
-║                                                            ║
-║  INGREDIENTS:                                              ║
-║    • Mapo Tofu                                            ║
-║    • Gochujang                                            ║
-║    • Sesame Seeds                                         ║
-║    • Yesterday's Rice                                     ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
+**What it displays:**
+- Recipe collection page
+- Korean-style Mapo Tofu recipe with image
+- Recipe name and description
+- Ingredients list
 
 **Skills Learned:** `<header>`, `<section>`, `<img>` tags, `<h2>`, `<h3>`, `<h4>`
 
@@ -99,28 +51,11 @@ A comprehensive collection of pure HTML projects organized by difficulty level, 
 ### 4️⃣ contact_form.html
 **Concepts:** Form elements, input types, labels, form structure
 
-**Output Preview:**
-```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║                    CONTACT FORM                            ║
-║                                                            ║
-║  ┌─────────────────────────────────────────────────────┐  ║
-║  │  Name:    [_____________________________]           │  ║
-║  │                                                     │  ║
-║  │  Email:   [_____________________________]           │  ║
-║  │                                                     │  ║
-║  │  Subject: [_____________________________]           │  ║
-║  │                                                     │  ║
-║  │  Message:                                           │  ║
-║  │  [____________________________________________]   │  ║
-║  │  [____________________________________________]   │  ║
-║  │                                                     │  ║
-║  │              [SUBMIT]                               │  ║
-║  └─────────────────────────────────────────────────────┘  ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
+**What it displays:**
+- Contact form with multiple fields
+- Name, email, subject, and message inputs
+- Submit button
+- Proper form structure
 
 **Skills Learned:** `<form>`, `<input>`, `<label>`, `<textarea>`, form attributes
 
@@ -131,36 +66,12 @@ A comprehensive collection of pure HTML projects organized by difficulty level, 
 ### 5️⃣ cafe.html
 **Concepts:** Semantic HTML, headers, main content, sections, contact information
 
-**Output Preview:**
-```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║                    HAMSTER CAFE ☕🐹                       ║
-║         Here you can find brewed happiness and hamsters    ║
-║                                                            ║
-║  ────────────────────────────────────────────────────     ║
-║                                                            ║
-║  ABOUT US:                                                 ║
-║  We are the real organic coffee café. Here you can also   ║
-║  pet hamsters if you like 😊                              ║
-║                                                            ║
-║  MENU HIGHLIGHTS                                           ║
-║    • Latte                                                ║
-║    • Cappuccino                                           ║
-║    • Croissant                                            ║
-║    • Iced-Americano                                       ║
-║    • Cold Black Coffee                                    ║
-║                                                            ║
-║  CONTACT DETAILS:                                          ║
-║  EMAIL: amansinghchandel416@gmail.com                     ║
-║  PHONE: 6578459950                                        ║
-║  LOCATION: 5th Avenue Street                              ║
-║                                                            ║
-║  ────────────────────────────────────────────────────     ║
-║          © Aman Singh | Privacy Policies                  ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
+**What it displays:**
+- Hamster Cafe website
+- About section describing the cafe
+- Menu highlights with coffee items
+- Contact details (email, phone, location)
+- Footer with copyright info
 
 **Skills Learned:** `<header>`, `<main>`, `<section>`, semantic HTML elements
 
@@ -169,31 +80,12 @@ A comprehensive collection of pure HTML projects organized by difficulty level, 
 ### 6️⃣ tables.html
 **Concepts:** Basic table structure, thead, tbody, captions
 
-**Output Preview:**
-```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║              LAPTOP COMPARISON TABLE                       ║
-║   Here you'll find a hypothetical table for comparing      ║
-║                       laptops                              ║
-║                                                            ║
-║  SPECS TABLE                                               ║
-║  ┌──────────────────────────────────────────────────────┐ ║
-║  │ TOP 3 LAPTOPS                                        │ ║
-║  ├──────────────┬──────────────┬──────────────┬────────┤ ║
-║  │ Model        │ Processor    │ Price        │        │ ║
-║  ├──────────────┼──────────────┼──────────────┼────────┤ ║
-║  │ Macbook      │ Very Good    │ Too Much     │        │ ║
-║  ├──────────────┼──────────────┼──────────────┼────────┤ ║
-║  │ Lenovo       │ Uhhh         │ Too Good     │        │ ║
-║  ├──────────────┼──────────────┼──────────────┼────────┤ ║
-║  │ HP           │ Good         │ Good         │        │ ║
-║  └──────────────┴──────────────┴──────────────┴────────┘ ║
-║                                                            ║
-║  © 2026 Aman Singh - All Rights Reserved                  ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
+**What it displays:**
+- Laptop comparison table
+- Table headers (model, processor, price)
+- Multiple rows of laptop data
+- Table with borders and caption
+- Professional data presentation
 
 **Skills Learned:** `<table>`, `<thead>`, `<tbody>`, `<tr>`, `<th>`, `<td>`, `<caption>`
 
@@ -202,34 +94,13 @@ A comprehensive collection of pure HTML projects organized by difficulty level, 
 ### 7️⃣ resume.html
 **Concepts:** Document structure, organized information, professional layout
 
-**Output Preview:**
-```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║                 AMAN KUMAR SINGH                           ║
-║  EMAIL: amansinghchandel@gmail.com | PHONE: 6201361238   ║
-║                                                            ║
-║  ════════════════════════════════════════════════════════ ║
-║                                                            ║
-║  EDUCATION                                                 ║
-║    • Premier Academy                                      ║
-║    • Ucch Mayhamik Vidyalaya                              ║
-║    • Gurukula Kangri University                           ║
-║                                                            ║
-║  SKILLS                                                    ║
-║    • Python, CSS, HTML, JavaScript                        ║
-║    • CSS                                                  ║
-║    • JavaScript                                           ║
-║    • HTML                                                 ║
-║                                                            ║
-║  EXPERIENCES                                               ║
-║    • NSS Volunteer                                        ║
-║                                                            ║
-║  ────────────────────────────────────────────────────     ║
-║         © 2026 - All Rights Reserved                      ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
+**What it displays:**
+- Personal resume/CV
+- Education section with schools/universities
+- Skills section with programming languages
+- Experience section
+- Header with contact info
+- Footer with copyright
 
 **Skills Learned:** Semantic sectioning, professional document structure
 
@@ -238,29 +109,12 @@ A comprehensive collection of pure HTML projects organized by difficulty level, 
 ### 8️⃣ portfolio.html
 **Concepts:** Portfolio structure, project showcase, images and links
 
-**Output Preview:**
-```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║           AMAN KUMAR SINGH - PORTFOLIO                     ║
-║                                                            ║
-║  Welcome to my portfolio profile!                          ║
-║  Here are some of my recent projects.                      ║
-║                                                            ║
-║  ════════════════════════════════════════════════════════ ║
-║                                                            ║
-║                   PROJECT 1: ILLUSTRATIONS                 ║
-║                                                            ║
-║  ┌──────────────────────────────────────┐               ║
-║  │    [🖼️  Illustration Image]           │               ║
-║  │         (300x300 px)                  │               ║
-║  │                                        │               ║
-║  └──────────────────────────────────────┘               ║
-║                                                            ║
-║  [📎 Tap Here] (Link to Project)                          ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
+**What it displays:**
+- Portfolio portfolio page
+- Header with introduction
+- Project showcase with images
+- Links to projects
+- Clean portfolio layout
 
 **Skills Learned:** Header, main, section, images, project organization
 
@@ -271,40 +125,13 @@ A comprehensive collection of pure HTML projects organized by difficulty level, 
 ### 9️⃣ quiz.html
 **Concepts:** Radio buttons, form labels, quiz structure, form submission
 
-**Output Preview:**
-```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║                    HTML BASIC QUIZ                         ║
-║              Test your knowledge via this quiz             ║
-║                                                            ║
-║  ════════════════════════════════════════════════════════ ║
-║                                                            ║
-║  QUESTION 1: What is the full form of HTML?               ║
-║                                                            ║
-║    ◯ Hyper Text Markup Language                           ║
-║    ◯ Hyper Text Makeup Language                           ║
-║    ◯ Hyper Text Marking Language                          ║
-║    ◯ Hyppo Text Making Language                           ║
-║                                                            ║
-║  ────────────────────────────────────────────────────     ║
-║                                                            ║
-║  QUESTION 2: What is the full form of href?               ║
-║                                                            ║
-║    ◯ Hydro Relative                                       ║
-║    ◯ Hydro Relative                                       ║
-║    ◯ Hydro Relative                                       ║
-║    ◯ Hydro Relative                                       ║
-║                                                            ║
-║  ────────────────────────────────────────────────────     ║
-║                                                            ║
-║              [SUBMIT TEST]                                 ║
-║                                                            ║
-║  ────────────────────────────────────────────────────     ║
-║              © Aman Singh - All Rights Reserved            ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
+**What it displays:**
+- HTML Basic Quiz
+- Multiple choice questions with radio buttons
+- Question 1: What is HTML's full form?
+- Question 2: What is href's full form?
+- Submit button for test submission
+- Professional quiz layout
 
 **Skills Learned:** Radio buttons, form labels, complex form structures, `<input type="radio">`
 
@@ -313,35 +140,13 @@ A comprehensive collection of pure HTML projects organized by difficulty level, 
 ### 🔟 advanced_tables.html
 **Concepts:** Complex table structures, colspan, semantic table elements, captions, accessibility
 
-**Output Preview:**
-```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║                     PLANET TABLE                           ║
-║                                                            ║
-║  Data about the planets of our sol system                 ║
-║  (Planetary facts from NASA Planetary Fact Sheet)         ║
-║                                                            ║
-║  ┌──────────────────────────────────────────────────────┐ ║
-║  │   │ Name    │Mass│Dia. │Density│Grav.│Day │Sun │   │ ║
-║  ├───┼─────────┼────┼─────┼───────┼─────┼────┼────┼───┤ ║
-║  │ 1 │ Mercury │    │     │       │     │    │    │   │ ║
-║  ├───┼─────────┼────┼─────┼───────┼─────┼────┼────┼───┤ ║
-║  │ 2 │ Venus   │    │     │       │     │    │    │   │ ║
-║  ├───┼─────────┼────┼─────┼───────┼─────┼────┼────┼───┤ ║
-║  │ 5 │ Jupiter │    │     │       │     │    │    │   │ ║
-║  ├───┼─────────┼────┼─────┼───────┼─────┼────┼────┼───┤ ║
-║  │ 6 │ Saturn  │    │     │       │     │    │    │   │ ║
-║  ├───┼─────────┼────┼─────┼───────┼─────┼────┼────┼───┤ ║
-║  │ 7 │ Uranus  │    │     │       │     │    │    │   │ ║
-║  ├───┼─────────┼────┼─────┼───────┼─────┼────┼────┼───┤ ║
-║  │ 8 │ Neptune │    │     │       │     │    │    │   │ ║
-║  ├───┼─────────┼────┼─────┼───────┼─────┼────┼────┼───┤ ║
-║  │ 9 │ Pluto   │    │     │       │     │    │    │   │ ║
-║  └───┴─────────┴────┴─────┴───────┴─────┴────┴────┴───┘ ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
+**What it displays:**
+- Planet data table
+- Information from NASA planetary fact sheet
+- Complex table with many columns
+- Planets of our solar system
+- Professional scientific data presentation
+- Uses colspan and semantic table elements
 
 **Skills Learned:** `<thead>`, `<tbody>`, `<caption>`, `colspan`, semantic HTML, table accessibility
 
@@ -350,49 +155,14 @@ A comprehensive collection of pure HTML projects organized by difficulty level, 
 ### 1️⃣1️⃣ svg.html
 **Concepts:** SVG graphics, vector drawing, shapes, embedded graphics (Most Advanced!)
 
-**Output Preview:**
-```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║           I'M PRACTICING SVG ICONS                         ║
-║                                                            ║
-║  ════════════════════════════════════════════════════════ ║
-║                                                            ║
-║  LINE                                                      ║
-║  ┌──────────────────────────────────────┐               ║
-║  │  ╱                                    │               ║
-║  │ ╱   (Green diagonal line)             │               ║
-║  │╱                                      │               ║
-║  └──────────────────────────────────────┘               ║
-║                                                            ║
-║  RECTANGLE                                                 ║
-║  ┌──────────────────────────────────────┐               ║
-║  │         ┌────────────┐                │               ║
-║  │         │ (Green     │                │               ║
-║  │         │  border)   │                │               ║
-║  │         └────────────┘                │               ║
-║  └──────────────────────────────────────┘               ║
-║                                                            ║
-║  CIRCLE                                                    ║
-║  ┌──────────────────────────────────────┐               ║
-║  │           ○ (Green circle)            │               ║
-║  │                                        │               ║
-║  └──────────────────────────────────────┘               ║
-║                                                            ║
-║  ELLIPSE                                                   ║
-║  ┌──────────────────────────────────────┐               ║
-║  │          ◯ (Purple ellipse)           │               ║
-║  │                                        │               ║
-║  └──────────────────────────────────────┘               ║
-║                                                            ║
-║  POLYGON                                                   ║
-║  ┌──────────────────────────────────────┐               ║
-║  │           ◆ (Complex shape)           │               ║
-║  │                                        │               ║
-║  └──────────────────────────────────────┘               ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
+**What it displays:**
+- SVG shapes demonstration
+- Line drawing (green diagonal line)
+- Rectangle with green border
+- Circle with green stroke
+- Purple ellipse
+- Polygon with complex points
+- Interactive SVG graphics
 
 **Skills Learned:** `<svg>`, `<line>`, `<rect>`, `<circle>`, `<ellipse>`, `<polygon>`, SVG attributes
 
